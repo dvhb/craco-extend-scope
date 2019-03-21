@@ -7,7 +7,7 @@ By default [create-react-app](https://facebook.github.io/create-react-app/) don'
 
 ## Supported Versions
 
-`craco-less` is tested with:
+`craco-extend-scope` is tested with:
 
 - `react-scripts`: `^2.1.5`
 - `@craco/craco`: `^3.5.0`
@@ -17,7 +17,7 @@ By default [create-react-app](https://facebook.github.io/create-react-app/) don'
 First, follow the [`craco` Installation Instructions](https://github.com/sharegate/craco/blob/master/packages/craco/README.md##installation)
 to install the `craco` package, create a `craco.config.js` file, and modify the scripts in your `package.json`.
 
-Then install `craco-less`:
+Then install `craco-extend-scope`:
 
 ```bash
 $ npm i @dvhb/craco-extend-scope
