@@ -32,7 +32,7 @@ $ yarn add @dvhb/craco-extend-scope
 Here is a complete `craco.config.js` configuration file that extends scope of `create-react-app`:
 
 ```js
-const cracoExtendScope = require('./craco-extend-scope');
+const cracoExtendScope = require('@dvhb/craco-extend-scope');
 
 module.exports = {
   plugins: [{ plugin: cracoExtendScope, options: { path: 'static' } }]
