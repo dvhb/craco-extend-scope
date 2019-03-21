@@ -1,5 +1,5 @@
 {
-  "name": "craco-extend-scope",
+  "name": "@dvhb/craco-extend-scope",
   "version": "1.0.0",
   "description": "An extend scope plugin for craco / react-scripts / create-react-app",
   "main": "index.js",

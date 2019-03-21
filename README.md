@@ -20,11 +20,11 @@ to install the `craco` package, create a `craco.config.js` file, and modify the 
 Then install `craco-less`:
 
 ```bash
-$ npm i craco-extend-scope
+$ npm i @dvhb/craco-extend-scope
 
 # OR
 
-$ yarn add craco-extend-scope
+$ yarn add @dvhb/craco-extend-scope
 ```
 
 ## Usage
