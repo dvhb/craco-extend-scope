@@ -1,0 +1,20 @@
+{
+  "name": "craco-extend-scope",
+  "version": "1.0.0",
+  "description": "An extend scope plugin for craco / react-scripts / create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvhb/craco-extend-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvhb/craco-extend-scope/issues"
+  },
+  "homepage": "https://github.com/dvhb/craco-extend-scope#readme"
+}
